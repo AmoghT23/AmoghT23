@@ -1,4 +1,4 @@
-## Hi, I'm Amogh Vinod Thakur 👋
+## Hi, I'm Amogh 👋
 MS Electrical and Computer Engineering | Portland State University
 Digital Design and Verification | Computer Architecture
 BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technology
@@ -26,8 +26,6 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 
 ---
 
-## Architecture
-![Cache Architecture](docs/cache_arch.png)
 
 <!--
 **AmoghT23/AmoghT23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
