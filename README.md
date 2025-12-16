@@ -1,5 +1,5 @@
 ## Hi, I'm Amogh 👋
-## A Digital Design and Verification Enthusiast 🤖
+#A Digital Design and Verification Enthusiast 🤖
 MS Electrical and Computer Engineering | Portland State University
 Digital Design and Verification | Computer Architecture
 BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technology
