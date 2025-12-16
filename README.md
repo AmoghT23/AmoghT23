@@ -28,10 +28,6 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Linux](https://img.shields.io/badge/Linux-black)
 
-
----
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmoghT23&theme=dark)
-
 ---
 
 ![Binary Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlweTRzYnh4aDhlNzdwdjM5Y25jYXA0dWJ1OGtjdjFlZTJnMnU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
