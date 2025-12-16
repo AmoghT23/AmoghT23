@@ -16,7 +16,7 @@ MS ECE | Digital Design and Verification | Computer Architecture
 
 ### 🛠️ Tech Stack
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange)
-![C/C++](https://img.shields.io/badge/SystemVerilog-violet)
+![C/C++](https://img.shields.io/badge/C/C++-violet)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Linux](https://img.shields.io/badge/Linux-black)
 
