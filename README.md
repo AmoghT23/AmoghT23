@@ -6,6 +6,13 @@ Digital Design and Verification | Computer Architecture
 BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technology
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/www.linkedin.com/in/amogh-thakur-242822218/)
+[![Email](https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:your_amogh.thakur23@gmail.com)
+
+
+
+
+
 🔹 System Verilog
 🔹 Pre-Silicon Validation  
 🔹 Microprocessor System Design
