@@ -7,7 +7,7 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogh-thakur-242822218/)
 [![Email](https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:amogh.thakur23@gmail.com)
 
-print("🦖 Dino Game Streak: 5")
+[Play My Dino Game 🦖](https://your-username.github.io/dino-game/)
 
 🔹 System Verilog
 🔹 Pre-Silicon Validation  
