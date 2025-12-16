@@ -9,14 +9,15 @@ MS ECE | Digital Design and Verification | Computer Architecture
 ---
 
 ### 🚀 Featured Projects
-- 🧠 **L1 Cache Simulator** – Python, trace-driven analysis  
-- 🔌 **AXI-Lite Verification** – SystemVerilog, self-checking TB  
+- 🧠 **L1 Cache Simulator** – Python, trace-driven analysis based on MESI protocol of coherence.  
+- 🔌 **AMBA AXI-Lite Verification** – SystemVerilog, self-checking TB with analysis of all the corner cases. 
 
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-blue)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange)
+![C/C++](https://img.shields.io/badge/SystemVerilog-violet)
+![Python](https://img.shields.io/badge/Python-blue)
 ![Linux](https://img.shields.io/badge/Linux-black)
 
 
