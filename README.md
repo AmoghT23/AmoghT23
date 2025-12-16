@@ -1,4 +1,4 @@
-## Hi, I'm Amogh 👋  
+## Hi, I'm Amogh 👋 <br> 
 A Digital Design and Verification Enthusiast 🤖
 
 MS Electrical and Computer Engineering | Portland State University
