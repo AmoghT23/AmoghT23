@@ -32,6 +32,9 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 ---
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmoghT23&theme=dark)
 
+---
+
+![Binary Animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 
 <!--
