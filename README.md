@@ -34,7 +34,7 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 
 ---
 
-![Binary Animation](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Binary Animation](https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz)
 
 
 <!--
