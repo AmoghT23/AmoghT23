@@ -9,6 +9,9 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 [![Email](https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:amogh.thakur23@gmail.com)
 
 
+![Binary Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlweTRzYnh4aDhlNzdwdjM5Y25jYXA0dWJ1OGtjdjFlZTJnMnU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
+
+
 🔹 System Verilog
 🔹 Pre-Silicon Validation  
 🔹 Microprocessor System Design
@@ -30,7 +33,7 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 
 ---
 
-![Binary Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlweTRzYnh4aDhlNzdwdjM5Y25jYXA0dWJ1OGtjdjFlZTJnMnU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
+
 
 
 <!--
