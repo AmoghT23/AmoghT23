@@ -16,8 +16,10 @@ jobs:
         with:
           github_user_name: AmoghT23
           outputs: |
-            dist/snake.svg?color_snake=#1E90FF&color_dots=#0A1AFF,#1E90FF,#63B8FF,#B0E0FF
-            dist/snake-dark.svg?color_snake=#4FC3F7&color_dots=#0D47A1,#1565C0,#1E88E5,#90CAF9
+            outputs: |
+                dist/snake.svg?cell_size=16&color_snake=#2E7D32&color_dots=#E0E0E0,#BBDEFB,#64B5F6,#1E88E5
+                dist/snake-dark.svg?cell_size=16&color_snake=#66BB6A&color_dots=#424242,#1E88E5,#42A5F5,#90CAF9
+
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
