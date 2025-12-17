@@ -33,7 +33,7 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 ![Binary Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmlweTRzYnh4aDhlNzdwdjM5Y25jYXA0dWJ1OGtjdjFlZTJnMnU5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)
 
 ---
-![GitHub Snake](https://raw.githubusercontent.com/AmoghT23/AmoghT23/output/snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/AmoghT23/AmoghT23/output/snake.svg)
 
 <!--
 **AmoghT23/AmoghT23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
