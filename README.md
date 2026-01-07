@@ -17,7 +17,7 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 ---
 
 ### 🚀 Featured Projects 
-- 🧠 **L1 Cache Simulator** – Python, trace-driven analysis based on MESI protocol of coherence.  \
+- 🧠 **L1 Cache Simulator** – Python, trace-driven analysis based on MESI protocol of coherence.  
 - 🔌 **AMBA AXI-Lite Verification** – SystemVerilog, self-checking TB with analysis of all the corner cases. 
 
 ---
