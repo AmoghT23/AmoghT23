@@ -1,24 +1,24 @@
 ## Hi, I'm Amogh 👋 <br> 
-A Digital Design and Verification Enthusiast 🤖
-MS Electrical and Computer Engineering | Portland State University
-Digital Design and Verification | Computer Architecture
-BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technology
+A Digital Design and Verification Enthusiast 🤖 \
+MS Electrical and Computer Engineering | Portland State University \
+Digital Design and Verification | Computer Architecture \
+BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technology \
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogh-thakur-242822218/)
 [![Email](https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail)](mailto:amogh.thakur23@gmail.com)
 
 
 
-🔹 System Verilog
-🔹 Pre-Silicon Validation  
-🔹 Microprocessor System Design
-🔹 Computer Architecture 1
+🔹 System Verilog \
+🔹 Pre-Silicon Validation \ 
+🔹 Microprocessor System Design \
+🔹 Computer Architecture 1 \
 
 ---
 
-### 🚀 Featured Projects
-- 🧠 **L1 Cache Simulator** – Python, trace-driven analysis based on MESI protocol of coherence.  
-- 🔌 **AMBA AXI-Lite Verification** – SystemVerilog, self-checking TB with analysis of all the corner cases. 
+### 🚀 Featured Projects \
+- 🧠 **L1 Cache Simulator** – Python, trace-driven analysis based on MESI protocol of coherence.  \
+- 🔌 **AMBA AXI-Lite Verification** – SystemVerilog, self-checking TB with analysis of all the corner cases. \
 
 ---
 
