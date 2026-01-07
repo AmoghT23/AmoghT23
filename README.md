@@ -10,9 +10,9 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 
 
 🔹 System Verilog \
-🔹 Pre-Silicon Validation \ 
-🔹 Microprocessor System Design \
-🔹 Computer Architecture 1 \
+🔹 Pre-Silicon Validation 
+🔹 Microprocessor System Design
+🔹 Computer Architecture 1 
 
 ---
 
