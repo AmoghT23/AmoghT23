@@ -1,7 +1,6 @@
 ## Hi, I'm Amogh 👋 <br> 
 A Digital Design and Verification Enthusiast 🤖 \
 MS Electrical and Computer Engineering | Portland State University \
-Digital Design and Verification | Computer Architecture \
 BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technology 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogh-thakur-242822218/)
@@ -12,7 +11,9 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 🔹 System Verilog \
 🔹 Pre-Silicon Validation \
 🔹 Microprocessor System Design \
-🔹 Computer Architecture 1 
+🔹 Computer Architecture \ 
+🔹 Post-Silicon Validation \
+🔹 Hardware for AI/ML
 
 ---
 
@@ -20,10 +21,8 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
   **Completed**
 - **L1 Cache Simulator** – Python, trace-driven analysis based on MESI protocol of coherence.  
 - **AMBA AXI-Lite Verification** – SystemVerilog, self-checking TB with analysis of all the corner cases.
-
-  **Ongoing**
-  - **DDR5 Design and Verification**
-  - **MIPS Microarchitecture Pipeline**
+- **DDR5 Design and Verification ** - UVM, with 90% functional coverage for critical cases.
+- **MIPS-lite Microarchitecture Pipeline** - C, (Data and Control hazards), Forwarding/Bypassing logic, and Pipeline Stalling.
 
 ---
 
@@ -31,7 +30,7 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange)
 ![C/C++](https://img.shields.io/badge/C/C++-violet)
 ![Python](https://img.shields.io/badge/Python-blue)
-![Linux](https://img.shields.io/badge/Linux-black)
+![Perl](https://img.shields.io/badge/Linux-black)
 
 ---
 
