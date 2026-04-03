@@ -21,7 +21,7 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
   **Completed**
 - **L1 Cache Simulator** – Python, trace-driven analysis based on MESI protocol of coherence.  
 - **AMBA AXI-Lite Verification** – SystemVerilog, self-checking TB with analysis of all the corner cases.
-- **DDR5 Design and Verification ** - UVM, with 90% functional coverage for critical cases.
+- **DDR5 Design and Verification** - UVM, with 90% functional coverage for critical cases.
 - **MIPS-lite Microarchitecture Pipeline** - C, (Data and Control hazards), Forwarding/Bypassing logic, and Pipeline Stalling.
 
 ---
@@ -30,7 +30,7 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange)
 ![C/C++](https://img.shields.io/badge/C/C++-violet)
 ![Python](https://img.shields.io/badge/Python-blue)
-![Perl](https://img.shields.io/badge/Linux-black)
+![Perl](https://img.shields.io/badge/Perl-black)
 
 ---
 
