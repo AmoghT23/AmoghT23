@@ -32,7 +32,6 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
   **Post Silicon Validation**
 - **JTAG TAP Controller for Boundary Scan** - Python, Raspberry Pi GPIO targeting Xilinx Spartan-6 FPGA and perform a boundary scan.
 - **Validation of x86 Instruction Set Architecture (ISA) using GNU Debugger** - C, x86 ISA based parallel ISA validation.
-- 
 ---
 
 ### 🛠️ Tech Stack
