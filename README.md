@@ -20,16 +20,16 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 ---
 
 ### 🚀 Featured Projects 
-  **Design Verification**
+**Design Verification**
 - **2-D Systolic Array based AI Accelerator** - SystemVerilog, Python [`Project-Repository`](https://github.com/AmoghT23/510_Hardware_for_AI_ML)
 - **AMBA AXI-Lite Verification** – SystemVerilog, self-checking TB with analysis of all the corner cases. [`Project-Repository`](https://github.com/AmoghT23/AMBA-AXI)
 - **DDR5 Design and Verification** - UVM, with 90% functional coverage for critical cases. [`Project-Repository`](https://github.com/kvsriram11/Design-Verification-DDR5-PHY/tree/main/DDR5PHY_MS4_UVM)
 
-  **Computer Architecture**
+**Computer Architecture**
 - **L1 Cache Simulator** – Python, trace-driven analysis based on MESI protocol of coherence. [`Project-Repository`](https://github.com/ECE-585-485-FA2025/project_code_g6)
 - **MIPS-lite Microarchitecture Pipeline** - C, (Data and Control hazards), Forwarding/Bypassing logic, and Pipeline Stalling. [`Project-Repository`](https://github.com/ECE586-486-WI2026/G6_code)
 
-  **Post Silicon Validation**
+**Post Silicon Validation**
 - **JTAG TAP Controller for Boundary Scan** - Python, Raspberry Pi GPIO targeting Xilinx Spartan-6 FPGA and perform a boundary scan.
 - **Validation of x86 Instruction Set Architecture (ISA) using GNU Debugger** - C, x86 ISA based parallel ISA validation.
 ---
