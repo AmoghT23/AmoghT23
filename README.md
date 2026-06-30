@@ -39,7 +39,7 @@ BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technol
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-orange)
 ![C/C++](https://img.shields.io/badge/C/C++-violet)
 ![Python](https://img.shields.io/badge/Python-blue)
-![Perl](https://img.shields.io/badge/Perl-black)
+![UVM](https://img.shields.io/badge/UVM-black)
 
 ---
 
