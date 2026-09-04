@@ -2,7 +2,7 @@
 A Digital Design and Verification Enthusiast 🤖 \
 M.S. Electrical & Computer Engineering @ Portland State University (Graduating June 2027) \
 Design Verification (DV) · Post-Silicon Validation · RTL Design · Computer Architecture \
-BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technology \
+BE Electronics and Telecommunication | SCTR's Pune Institute of Computer Technology 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amogh-thakur-242822218/)
